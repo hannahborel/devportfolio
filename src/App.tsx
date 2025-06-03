@@ -1,15 +1,8 @@
 import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import LandingPage from "./LandingPage";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <p>Hannah's Portfoio</p>
-      </header>
-    </div>
-  );
+  return <LandingPage />;
 }
 
 export default App;
