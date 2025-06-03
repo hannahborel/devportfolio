@@ -55,7 +55,7 @@ const LandingPage: React.FC = () => {
           using equal parts curiosity, code, and good design. Whether it's
           untangling complex data or streamlining someone's day-to-day, I love
           digging into what people actually need and crafting experiences that
-          are as useful as they are beautiful.
+          are as useful as they are fun to look at.
         </Typography>
       </Container>
     </ThemeProvider>
